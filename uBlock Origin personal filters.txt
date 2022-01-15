@@ -1,0 +1,20 @@
+! 2022-01-03 https://www.youtube.com
+www.youtube.com###destination-buttons
+www.youtube.com###grid-container
+
+! 2022-01-09 https://www.dhakatribune.com
+www.dhakatribune.com##div.a-d-holder-container:nth-of-type(1)
+www.dhakatribune.com##div.a-d-holder-container:nth-of-type(2)
+www.dhakatribune.com##div.a-d-holder-container:nth-of-type(4)
+
+
+https://analyticsengine.s3.amazonaws.com
+https://affiliationjs.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
+https://app.getsentry.com
+https://advertising.twitter.com
+https://d.reddit.com
+https://metrics.mzstatic.com
+
+! 2022-01-14 https://www.youtube.com
+www.youtube.com##.nfe-info-link > span
