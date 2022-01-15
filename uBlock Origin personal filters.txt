@@ -1,13 +1,21 @@
-! 2022-01-03 https://www.youtube.com
+! Blocks Explore or trends page
 www.youtube.com###destination-buttons
 www.youtube.com###grid-container
 
-! 2022-01-09 https://www.dhakatribune.com
+! Blocks Homepage
+www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com##ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope > .ytd-rich-grid-row.style-scope
+
+! Blocks video sidbar
+www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope > .ytd-item-section-renderer.style-scope
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+
+! Dhaka Tribune Adblocks
 www.dhakatribune.com##div.a-d-holder-container:nth-of-type(1)
 www.dhakatribune.com##div.a-d-holder-container:nth-of-type(2)
 www.dhakatribune.com##div.a-d-holder-container:nth-of-type(4)
 
-
+!extras from special test
 https://analyticsengine.s3.amazonaws.com
 https://affiliationjs.s3.amazonaws.com
 https://advertising-api-eu.amazon.com
@@ -16,5 +24,3 @@ https://advertising.twitter.com
 https://d.reddit.com
 https://metrics.mzstatic.com
 
-! 2022-01-14 https://www.youtube.com
-www.youtube.com##.nfe-info-link > span
